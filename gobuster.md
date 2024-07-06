@@ -76,4 +76,5 @@ Daha deyatlı bilgi içi `gobuster --help` komutunu kullanın.
 
 **Not:** Yasal ve etik kurallara uymak önemlidir. Sadece izin verilen hedeflerde tarama yapmalı ve hedef sistemlere aşırı yük bindirmemelisiniz.
 
-Bu yazı Yavuz Kuk tarafından hazırlanmıştır. 
+
+> Blockquotes Bu yazı [*Yavuz Kuk*](https://www.linkedin.com/in/yavuzkuk/) tarafından hazırlanmıştır.

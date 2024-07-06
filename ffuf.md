@@ -139,5 +139,4 @@ Burada kullandığım -e parametresi wordliste bulunan kelimelerin sonuna ekleni
 
 Ne kadar büyük bir -recursion-depth değeri verirseniz tarama o kadar uzun sürer.
 
-
-Bu yazı Yavuz Kuk tarafından hazırlanmıştır.
+> Blockquotes Bu yazı [*Yavuz Kuk*](https://www.linkedin.com/in/yavuzkuk/) tarafından hazırlanmıştır.

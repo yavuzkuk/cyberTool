@@ -86,4 +86,5 @@ Bu komutlar sonucunda karşımıza iki tane dosya çıkıyor. ip.txt dosyasında
 
 usernamas.dat dosyasında ise girilen kullanı bilgileri bulunmakta. Bu dosyaları "cat" komutuyla okuyabiliriz.
 
-Bu yazı Yavuz Kuk tarafından hazırlanmıştır.
+
+> Blockquotes Bu yazı [*Yavuz Kuk*](https://www.linkedin.com/in/yavuzkuk/) tarafından hazırlanmıştır.
