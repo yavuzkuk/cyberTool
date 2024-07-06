@@ -138,3 +138,6 @@ Rekürsif bir şekilde bulduğu dosyaların içine gire gire tarama yapan bir ar
 Burada kullandığım -e parametresi wordliste bulunan kelimelerin sonuna eklenir ve denemeler bunun üzeriden yapılır.
 
 Ne kadar büyük bir -recursion-depth değeri verirseniz tarama o kadar uzun sürer.
+
+
+Bu yazı Yavuz Kuk tarafından hazırlanmıştır.

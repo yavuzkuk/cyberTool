@@ -191,6 +191,4 @@ Daha detaylı bilgi için BeEF'in kaynak koduna bakabilirsiniz.
 
 [https://github.com/beefproject/beef](https://github.com/beefproject/beef)
 
-{% embed url="https://github.com/yavuzkuk" fullWidth="false" %}
 Bu yazı Yavuz Kuk tarafından hazırlanmıştır.
-{% endembed %}

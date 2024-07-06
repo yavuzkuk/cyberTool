@@ -76,4 +76,4 @@ Daha deyatlı bilgi içi `gobuster --help` komutunu kullanın.
 
 **Not:** Yasal ve etik kurallara uymak önemlidir. Sadece izin verilen hedeflerde tarama yapmalı ve hedef sistemlere aşırı yük bindirmemelisiniz.
 
-\{% embed url="[https://github.com/yavuzkuk](https://github.com/yavuzkuk)" fullWidth="false" %\} Bu yazı Yavuz Kuk tarafından hazırlanmıştır. \{% endembed %\}
+Bu yazı Yavuz Kuk tarafından hazırlanmıştır. 
