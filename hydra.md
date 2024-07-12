@@ -161,3 +161,5 @@ Your username or password is incorrect.</i> yazan kısım ise  yanlış bir ceva
 Elde ettiğimiz şifreyi giriş ekranında kullanarak sisteme girip sonuncu flagi elde edebiliyoruz.
 
 <figure><image src="assets/hydra/webFlag.png"></figure>
+
+> Bu yazı [*Yavuz Kuk*](https://www.linkedin.com/in/yavuzkuk/) tarafından hazırlanmıştır.

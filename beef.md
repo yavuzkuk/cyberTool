@@ -191,4 +191,4 @@ Daha detaylı bilgi için BeEF'in kaynak koduna bakabilirsiniz.
 
 [https://github.com/beefproject/beef](https://github.com/beefproject/beef)
 
-> Blockquotes Bu yazı [*Yavuz Kuk*](https://www.linkedin.com/in/yavuzkuk/) tarafından hazırlanmıştır.
+> Bu yazı [*Yavuz Kuk*](https://www.linkedin.com/in/yavuzkuk/) tarafından hazırlanmıştır.
